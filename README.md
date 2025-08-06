@@ -10,3 +10,15 @@
 如需本项目所需数据集可联系作者
 
 欢迎大家点star支持！
+
+Use the YOLO model for object detection in Honor of Kings.
+
+You can train your own labeled images using the code in this repository, or directly use the pre-trained model provided by the author, located in train/train/exp2.
+
+The author performed transfer learning on their custom dataset based on a pre-trained model using the COCO dataset, enabling object detection in Honor of Kings scenes.
+
+Users must download and configure the required PyTorch for this repository. The project code can only be used after the environment is set up.
+
+If you need the dataset required for this project, please contact the author.
+
+Everyone is welcome to star and support!
