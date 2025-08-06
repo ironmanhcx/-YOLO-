@@ -1,0 +1,16 @@
+path: D:/Software/pycharm_projects/pythonProject/yolov5 # dataset root dir
+train: coco128/images/train2017  # train images (relative to 'path') 128 images
+val: coco128/images/val2017  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+
+  0: hero
+  1: soldier
+  2: Buff
+  3: grass
+  4: wild_monster
+  5: dragon
+  6: tower
+  7: crystal
