@@ -1,5 +1,5 @@
 # -YOLO-
-使用YOLO模型对王者荣耀进行目标检测
+🚀使用YOLO模型对王者荣耀进行目标检测🚀
 
 可使用本仓库代码训练自己标记的图片，也可以直接使用作者已经训练好的模型，位于runs/train/exp/weights
 
@@ -11,7 +11,7 @@
 
 欢迎大家点star支持！
 
-Use the YOLO model for object detection in Honor of Kings.
+🚀Use the YOLO model for object detection in Honor of Kings.🚀
 
 You can train your own labeled images using the code in this repository, or directly use the pre-trained model provided by the author, located in runs/train/exp/weights.
 
